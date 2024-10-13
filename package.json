@@ -1,6 +1,6 @@
 {
   "name": "",
-  "version": "15",
+  "node": "15",
   "description": "Customizable WhatsApp Bot",
   "main": "index.js",
   "type": "module",
